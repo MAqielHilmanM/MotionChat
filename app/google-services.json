@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "758304682449",
+    "firebase_url": "https://motionchat-2075d.firebaseio.com",
+    "project_id": "motionchat-2075d",
+    "storage_bucket": "motionchat-2075d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758304682449:android:a836df76281f9edd",
+        "android_client_info": {
+          "package_name": "motion.motionchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758304682449-fd5phia17t3f6hrfft96s2do2dqhe3pb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "motion.motionchat",
+            "certificate_hash": "49b9a8c14c8f1ea8e31f2690924abccf9acd4721"
+          }
+        },
+        {
+          "client_id": "758304682449-pkg3u9r50b2lms7rqhisg9tvdnjumd6q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ8mXFD1HzELp9GU48kYNpSGugtbCtLLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758304682449-pkg3u9r50b2lms7rqhisg9tvdnjumd6q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
